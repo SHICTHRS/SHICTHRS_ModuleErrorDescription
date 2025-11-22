@@ -35,20 +35,6 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 | 1015 | SHRJsonLoaderException | json_dict parameter must be a dictionary | 传入的json字典必须为字典 |
 | 1016 | SHRJsonLoaderException | file integrity check failed | 文件完整性校验失败 |
 
-
-## 使用方法
-
-```python
-from SHICTHRSJsonLoader import SHRJsonLoaderException
-
-try:
-    # 您的代码
-except SHRJsonLoaderException as e:
-    error_code = e.error_code  # 获取错误代码
-    print(f"错误代码: {error_code}")
-    print(f"错误信息: {e.message}")
-```
-
 ## 贡献
 
 欢迎提交新的错误代码定义或修改建议。请确保：
@@ -67,4 +53,4 @@ except SHRJsonLoaderException as e:
 
 ---
 
-*最后更新: 2025年*
+*最后更新: 2025年11月22日*
