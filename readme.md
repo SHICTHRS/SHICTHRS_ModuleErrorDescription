@@ -51,6 +51,17 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 | 1026 | SHRCSVLoaderException | unable to insert csv file | 在核心接口中发生错误 |
 | 1027 | SHRCSVLoaderException | unable to insert csv file | 在公共接口中发生错误 |
 
+### SHICTHRSLogCore模块
+
+| 错误代码 | 异常类 | 英文描述 | 中文描述 |
+|---------|--------|---------|---------|
+| 1028 | SHRLogCoreException | unable to init SHRLogCoreRecorder | 无法初始化日志记录器 |
+| 1029 | SHRLogCoreException | unable to clean outdated logs | 无法清除过期日志 |
+| 1030 | SHRLogCoreException | unable to read SHRLogCoreConfigSettings.ini | 无法正常加载logcore配置文件 |
+| 1031 | SHRLogCoreException | unable to rebuild logcore config settings | 无法重载logcore配置文件 |
+| 1032 | SHRLogCoreException | unable to output log to console | 无法向控制台输出日志 |
+| 1033 | SHRLogCoreException | unable to record log | 无法记录日志 |
+| 1034 | SHRLogCoreException | unable to update log config file | 无法更新logcore配置文件 |
 
 ## 贡献
 
