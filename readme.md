@@ -74,5 +74,11 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 | 2004 | SHRMACEException | unable to get CPU vendor | cpu生产厂商获取失败 |
 | 2005 | SHRMACEException | unable to get MotherBoard info | 主板信息获取失败 |
 | 2006 | SHRMACEException | unable to get MotherBoard id | 主板序列号获取失败 |
-| 2007 | SHRMACEException | unable to get GPU info | 主板序列号获取失败 |
+| 2007 | SHRMACEException | unable to get GPU info | 显卡信息获取失败 |
+| 2008 | SHRMACEException | unable to get GPU id | 显卡序列号获取失败 |
+| 2009 | SHRMACEException | unable to get disk info | 硬盘信息获取失败 |
+| 2009.0 | SHRMACEException | error occurred while getting disk info | 在读取硬盘信息时发生错误 |
+| 2009.1 | SHRMACEException | error occurred while getting disk DISK_PARTITION info | 在读取硬盘分区信息时发生错误 |
+| 2010 | SHRMACEException | unable to get disk id | 硬盘序列号获取失败 |
+| 2011 | SHRMACEException | unable to get memory info | 内存信息获取失败 |
 
