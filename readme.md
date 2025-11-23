@@ -6,6 +6,16 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 
 本项目提供了SHICTHRS系列模块的错误代码定义和详细说明，帮助开发者和用户快速理解并处理各类异常情况。
 
+## 现有模块状态
+
+| 模块名称 | 最新版本 | 更新时间 | 维护状态 |
+|---------|--------|---------|---------|
+| SHICTHRSMACE | 1.0.0 | 20251123 | ✅ |
+| SHICTHRSLogCore  | 1.5.0 | 20251123 | ✅ |
+| SHICTHRSCSVLoader  | 1.1.0 | 20251123 | ✅ |
+| SHICTHRSJsonLoader  | 1.3.0 | 20251123 | ✅ |
+| SHICTHRSConfigLoader  | 1.2.0 | 20251119 | ✅ |
+
 ## 模块错误代码
 
 ### SHICTHRSConfigLoader模块
