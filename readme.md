@@ -10,7 +10,7 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 
 | 模块名称 | 最新版本 | 更新时间 | 维护状态 | 项目地址 |
 |---------|--------|---------|---------|---------|
-| SHICTHRSWindowsDefenderManager | 1.0.0 | 20251124 | ✅ | [SHICTHRS_ENCR](https://github.com/JNTMTMTM/SHICTHRS_WindowsDefenderManager) |
+| SHICTHRSWindowsDefenderManager | 1.0.0 | 20251124 | ✅ | [SHICTHRS_WindowsDefenderManager](https://github.com/JNTMTMTM/SHICTHRS_WindowsDefenderManager) |
 | SHICTHRSENCR | 1.0.0 | 20251123 | ✅ | [SHICTHRS_ENCR](https://github.com/JNTMTMTM/SHICTHRS_ENCR) |
 | SHICTHRSMACE | 1.0.0 | 20251123 | ✅ | [SHICTHRS_MACE](https://github.com/JNTMTMTM/SHICTHRS_MACE) |
 | SHICTHRSLogCore  | 1.5.0 | 20251123 | ✅ | [SHICTHRS_LogCore](https://github.com/JNTMTMTM/SHICTHRS_LogCore) |
@@ -20,7 +20,7 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 
 ## 模块错误代码
 
-### SHICTHRSConfigLoader模块
+### SHICTHRSConfigLoader 模块
 
 | 错误代码 | 异常类 | 英文描述 | 中文描述 |
 |---------|--------|---------|---------|
@@ -29,7 +29,7 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 | 1002 | SHRConfigLoaderException | unable to read config file | 无法读取配置文件 |
 | 1003 | SHRConfigLoaderException | unable to write config file | 无法写入配置文件 |
 
-### SHICTHRSJsonLoader模块
+### SHICTHRSJsonLoader 模块
 
 | 错误代码 | 异常类 | 英文描述 | 中文描述 |
 |---------|--------|---------|---------|
@@ -47,7 +47,7 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 | 1015 | SHRJsonLoaderException | json_dict parameter must be a dictionary | 传入的json字典必须为字典 |
 | 1016 | SHRJsonLoaderException | file integrity check failed | 文件完整性校验失败 |
 
-### SHICTHRSCSVLoader模块
+### SHICTHRSCSVLoader 模块
 
 | 错误代码 | 异常类 | 英文描述 | 中文描述 |
 |---------|--------|---------|---------|
@@ -63,7 +63,7 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 | 1026 | SHRCSVLoaderException | unable to insert csv file | 在核心接口中发生错误 |
 | 1027 | SHRCSVLoaderException | unable to insert csv file | 在公共接口中发生错误 |
 
-### SHICTHRSLogCore模块
+### SHICTHRSLogCore 模块
 
 | 错误代码 | 异常类 | 英文描述 | 中文描述 |
 |---------|--------|---------|---------|
@@ -75,7 +75,7 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 | 1033 | SHRLogCoreException | unable to record log | 无法记录日志 |
 | 1034 | SHRLogCoreException | unable to update log config file | 无法更新logcore配置文件 |
 
-### SHICTHRSMACE模块
+### SHICTHRSMACE 模块
 
 | 错误代码 | 异常类 | 英文描述 | 中文描述 |
 |---------|--------|---------|---------|
@@ -97,7 +97,7 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 | 2013 | SHRMACEException | error occurred while getting creating threads pool | 创建异步线程池时发生错误 |
 | 2013 | SHRMACEException | error occurred while getting mace info | 获取MACE信息时发生错误 |
 
-### SHICTHRSENCR模块
+### SHICTHRSENCR 模块
 
 | 错误代码 | 异常类 | 英文描述 | 中文描述 |
 |---------|--------|---------|---------|
@@ -111,5 +111,16 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 | 3003 | SHRENCRException | unable to check identity number | 校验身份证号时发生错误 |
 | 3004 | SHRENCRException | unable to check chinese text | 正则表达式检查中文字符时发生错误 |
 
+### SHICTHRSWindowsDefenderManager 模块
+
+| 错误代码 | 异常类 | 英文描述 | 中文描述 |
+|---------|--------|---------|---------|
+| 4000 | SHRWindowsDefenderManagerException | unable to check Windows Defender status | 无法获取 Windows Defender 状态 |
+| 4001.0 | SHRWindowsDefenderManagerException | unable to enable Windows Defender due to PermissionError | 因为注册表权限不足无法启用 Windows Defender |
+| 4001.1 | SHRWindowsDefenderManagerException | failed to enable Windows Defender | 无法通过修改注册表方式启用 Windows Defender |
+| 4001.2 | SHRWindowsDefenderManagerException | unable to enable Windows Defender | 无法启用 Windows Defender |
+| 4002.0 | SHRWindowsDefenderManagerException | unable to disable Windows Defender due to PermissionError | 因为注册表权限不足无法禁用 Windows Defender |
+| 4002.1 | SHRWindowsDefenderManagerException | failed to disable Windows Defender | 无法通过修改注册表方式禁用 Windows Defender |
+| 4002.2 | SHRWindowsDefenderManagerException | unable to disable Windows Defender | 无法禁用 Windows Defender |
 
 
