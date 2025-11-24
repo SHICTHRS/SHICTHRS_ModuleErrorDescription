@@ -10,6 +10,7 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 
 | 模块名称 | 最新版本 | 更新时间 | 维护状态 | 项目地址 |
 |---------|--------|---------|---------|---------|
+| SHICTHRSWindowsDefenderManager | 1.0.0 | 20251124 | ✅ | [SHICTHRS_ENCR](https://github.com/JNTMTMTM/SHICTHRS_WindowsDefenderManager) |
 | SHICTHRSENCR | 1.0.0 | 20251123 | ✅ | [SHICTHRS_ENCR](https://github.com/JNTMTMTM/SHICTHRS_ENCR) |
 | SHICTHRSMACE | 1.0.0 | 20251123 | ✅ | [SHICTHRS_MACE](https://github.com/JNTMTMTM/SHICTHRS_MACE) |
 | SHICTHRSLogCore  | 1.5.0 | 20251123 | ✅ | [SHICTHRS_LogCore](https://github.com/JNTMTMTM/SHICTHRS_LogCore) |
