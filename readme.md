@@ -129,9 +129,9 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 | 错误代码 | 异常类 | 英文描述 | 中文描述 |
 |---------|--------|---------|---------|
 | 5000 | SHRVTCheckerException | no result output | powershell 无输出 |
-| 5000.1 | SHRVTCheckerException | an invalid parameter was output | VirtualizationFirmware powershell 输出了一个无效的参数 |
+| 5000.1 | SHRVTCheckerException | an invalid parameter was output | powershell 输出了一个无效的参数 |
 | 5001 | SHRVTCheckerException | unable to get virtualization firmware status | 无法获取 virtualization firmware 状态 |
-| 5001.0 | SHRVTCheckerException | an invalid parameter was output | powershell 输出了一个无效的参数 |
+| 5001.0 | SHRVTCheckerException | an invalid parameter was output | VirtualizationFirmware powershell 输出了一个无效的参数 |
 | 5002 | SHRVTCheckerException | unable to get data execution prevention status | 无法获取 data execution prevention 状态 |
 | 5002.0 | SHRVTCheckerException | an invalid parameter was output | DEP powershell 输出了一个无效的参数 |
 | 5002.1 | SHRVTCheckerException | unable to get nx_supported status | 无法通过 WindowsApi 获取NX服务状态 |
