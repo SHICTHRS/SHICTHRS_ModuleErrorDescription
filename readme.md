@@ -10,7 +10,7 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 
 | 模块名称 | 最新版本 | 更新时间 | 维护状态 | 项目地址 |
 |---------|--------|---------|---------|---------|
-| SHICTHRSBrowserReader | 1.0.0 | 20251126 | ✅ | [SHICTHRS_BrowserReader](https://github.com/JNTMTMTM/SHICTHRS_BrowserReader) |
+| SHICTHRSBrowserReader | 1.1.0 | 20251126 | ✅ | [SHICTHRS_BrowserReader](https://github.com/JNTMTMTM/SHICTHRS_BrowserReader) |
 | SHICTHRSVTChecker | 1.0.0 | 20251125 | ✅ | [SHICTHRS_VTChecker](https://github.com/JNTMTMTM/SHICTHRS_VTChecker) |
 | SHICTHRSWindowsDefenderManager | 1.0.0 | 20251124 | ✅ | [SHICTHRS_WindowsDefenderManager](https://github.com/JNTMTMTM/SHICTHRS_WindowsDefenderManager) |
 | SHICTHRSENCR | 1.1.0 | 20251124 | ✅ | [SHICTHRS_ENCR](https://github.com/JNTMTMTM/SHICTHRS_ENCR) |
@@ -147,6 +147,6 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 |---------|--------|---------|---------|
 | 6000 | SHRBrowserReaderException | unable to get browser history | 无法获取浏览器历史记录 |
 | 6001 | SHRBrowserReaderException | unable to fetch browser history | 无法拉取浏览器历史记录 |
-| 6002 | SHRBrowserReaderException | unable to process browser history | 无法处理浏览器历史记录 |
-| 6003 | SHRBrowserReaderException | unable to extract keyword from browser history | 无法导出浏览器历史记录关键字 |
+| 6002 #弃用 | SHRBrowserReaderException | unable to process browser history | 无法处理浏览器历史记录 |
+| 6003 #弃用 | SHRBrowserReaderException | unable to extract keyword from browser history | 无法导出浏览器历史记录关键字 |
 | 6004 | SHRBrowserReaderException | get empty browser history | 导出了空的浏览器历史记录 |
