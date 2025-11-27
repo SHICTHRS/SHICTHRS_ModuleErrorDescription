@@ -16,7 +16,7 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 | SHICTHRSWindowsDefenderManager | 1.0.0 | 20251124 | ✅ | [SHICTHRS_WindowsDefenderManager](https://github.com/JNTMTMTM/SHICTHRS_WindowsDefenderManager) |
 | SHICTHRSENCR | 1.2.0 | 20251127 | ✅ | [SHICTHRS_ENCR](https://github.com/JNTMTMTM/SHICTHRS_ENCR) |
 | SHICTHRSMACE | 1.2.0 | 20251127 | ✅ | [SHICTHRS_MACE](https://github.com/JNTMTMTM/SHICTHRS_MACE) |
-| SHICTHRSLogCore  | 1.7.0 | 20251127 | ✅ | [SHICTHRS_LogCore](https://github.com/JNTMTMTM/SHICTHRS_LogCore) |
+| SHICTHRSLogCore  | 1.8.0 | 20251127 | ✅ | [SHICTHRS_LogCore](https://github.com/JNTMTMTM/SHICTHRS_LogCore) |
 | SHICTHRSCSVLoader  | 1.3.0 | 20251127 | ✅ | [SHICTHRS_CSVLoader](https://github.com/JNTMTMTM/SHICTHRS_CSVLoader) |
 | SHICTHRSJsonLoader  | 1.4.0 | 20251127 | ✅ | [SHICTHRS_JsonLoader](https://github.com/JNTMTMTM/SHICTHRS_JsonLoader) |
 | SHICTHRSConfigLoader  | 1.3.0 | 20251127 | ✅ | [SHICTHRS_ConfigLoader](https://github.com/JNTMTMTM/SHICTHRS_ConfigLoader) |
