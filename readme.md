@@ -172,6 +172,8 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 
 | 错误代码 | 异常类 | 英文描述 | 中文描述 |
 |---------|--------|---------|---------|
-| 8000 | SHRTimerException | format type not supported | 不支持的时间输出格式 |
+| 8000 | SHRTimerException | format type is not supported | 时间输出格式不被支持 |
 | 8001 | SHRTimerException | unable to get system time | 无法获取系统时间 |
 | 8002 | SHRTimerException | unable to get system time stamp | 无法获取系统时间戳 |
+| 8003 | SHRTimerException | time zone is not supported | 输入的时区不被支持 |
+| 8004 | SHRTimerException | unable to get pytz time | 无法获取时区时间 |
