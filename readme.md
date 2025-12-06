@@ -11,7 +11,7 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 | 模块名称 | 最新版本 | 更新时间 | 维护状态 | 项目地址 |
 |---------|--------|---------|---------|---------|
 | SHICTHRSTimer | 1.1.0 | 20251129 | ✅ | [SHICTHRS_Timer](https://github.com/JNTMTMTM/SHICTHRS_Timer) |
-| SHICTHRSWMICManager | 1.2.0 | 20251129 | ✅ | [SHICTHRS_WMICManager](https://github.com/JNTMTMTM/SHICTHRS_WMICManager) |
+| SHICTHRSWMICManager | 1.3.0 | 20251206 | ✅ | [SHICTHRS_WMICManager](https://github.com/JNTMTMTM/SHICTHRS_WMICManager) |
 | SHICTHRSBrowserReader | 1.3.0 | 20251129 | ✅ | [SHICTHRS_BrowserReader](https://github.com/JNTMTMTM/SHICTHRS_BrowserReader) |
 | SHICTHRSVTChecker | 1.2.0 | 20251129 | ✅ | [SHICTHRS_VTChecker](https://github.com/JNTMTMTM/SHICTHRS_VTChecker) |
 | SHICTHRSWindowsDefenderManager | 1.1.0 | 20251129 | ✅ | [SHICTHRS_WindowsDefenderManager](https://github.com/JNTMTMTM/SHICTHRS_WindowsDefenderManager) |
