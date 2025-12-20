@@ -18,7 +18,7 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 | SHICTHRSENCR | 1.3.0 | 20251129 | ✅ | [SHICTHRS_ENCR](https://github.com/JNTMTMTM/SHICTHRS_ENCR) |
 | SHICTHRSMACE | 1.5.0 | 20251129 | ✅ | [SHICTHRS_MACE](https://github.com/JNTMTMTM/SHICTHRS_MACE) |
 | SHICTHRSLogCore  | 1.12.0 | 20251214 | ✅ | [SHICTHRS_LogCore](https://github.com/JNTMTMTM/SHICTHRS_LogCore) |
-| SHICTHRSCSVLoader  | 1.4.0 | 20251129 | ✅ | [SHICTHRS_CSVLoader](https://github.com/JNTMTMTM/SHICTHRS_CSVLoader) |
+| SHICTHRSCSVLoader  | 1.5.0 | 20251220 | ✅ | [SHICTHRS_CSVLoader](https://github.com/JNTMTMTM/SHICTHRS_CSVLoader) |
 | SHICTHRSJsonLoader  | 1.5.0 | 20251129 | ✅ | [SHICTHRS_JsonLoader](https://github.com/JNTMTMTM/SHICTHRS_JsonLoader) |
 | SHICTHRSConfigLoader  | 1.5.0 | 20251214 | ✅ | [SHICTHRS_ConfigLoader](https://github.com/JNTMTMTM/SHICTHRS_ConfigLoader) |
 
