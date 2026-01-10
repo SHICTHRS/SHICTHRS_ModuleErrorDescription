@@ -10,17 +10,17 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 
 | 模块名称 | 最新版本 | 更新时间 | 维护状态 | 项目地址 |
 |---------|--------|---------|---------|---------|
-| SHICTHRSTimer | 1.1.0 | 20251129 | ✅ | [SHICTHRS_Timer](https://github.com/JNTMTMTM/SHICTHRS_Timer) |
-| SHICTHRSWMICManager | 1.3.0 | 20251206 | ✅ | [SHICTHRS_WMICManager](https://github.com/JNTMTMTM/SHICTHRS_WMICManager) |
-| SHICTHRSBrowserReader | 1.3.0 | 20251129 | ✅ | [SHICTHRS_BrowserReader](https://github.com/JNTMTMTM/SHICTHRS_BrowserReader) |
-| SHICTHRSVTChecker | 1.2.0 | 20251129 | ✅ | [SHICTHRS_VTChecker](https://github.com/JNTMTMTM/SHICTHRS_VTChecker) |
-| SHICTHRSWindowsDefenderManager | 1.1.0 | 20251129 | ✅ | [SHICTHRS_WindowsDefenderManager](https://github.com/JNTMTMTM/SHICTHRS_WindowsDefenderManager) |
-| SHICTHRSENCR | 1.3.0 | 20251129 | ✅ | [SHICTHRS_ENCR](https://github.com/JNTMTMTM/SHICTHRS_ENCR) |
-| SHICTHRSMACE | 1.5.0 | 20251129 | ✅ | [SHICTHRS_MACE](https://github.com/JNTMTMTM/SHICTHRS_MACE) |
-| SHICTHRSLogCore  | 1.12.0 | 20251214 | ✅ | [SHICTHRS_LogCore](https://github.com/JNTMTMTM/SHICTHRS_LogCore) |
-| SHICTHRSCSVLoader  | 1.5.0 | 20251220 | ✅ | [SHICTHRS_CSVLoader](https://github.com/JNTMTMTM/SHICTHRS_CSVLoader) |
-| SHICTHRSJsonLoader  | 1.5.0 | 20251129 | ✅ | [SHICTHRS_JsonLoader](https://github.com/JNTMTMTM/SHICTHRS_JsonLoader) |
-| SHICTHRSConfigLoader  | 1.5.0 | 20251214 | ✅ | [SHICTHRS_ConfigLoader](https://github.com/JNTMTMTM/SHICTHRS_ConfigLoader) |
+| SHICTHRSTimer | 1.2.0 | 20260110 | ✅ | [SHICTHRS_Timer](https://github.com/SHICTHRS/SHICTHRS_Timer) |
+| SHICTHRSWMICManager | 1.3.0 | 20251206 | ✅ | [SHICTHRS_WMICManager](https://github.com/SHICTHRS/SHICTHRS_WMICManager) |
+| SHICTHRSBrowserReader | 1.3.0 | 20251129 | ✅ | [SHICTHRS_BrowserReader](https://github.com/SHICTHRS/SHICTHRS_BrowserReader) |
+| SHICTHRSVTChecker | 1.2.0 | 20251129 | ✅ | [SHICTHRS_VTChecker](https://github.com/SHICTHRS/SHICTHRS_VTChecker) |
+| SHICTHRSWindowsDefenderManager | 1.1.0 | 20251129 | ✅ | [SHICTHRS_WindowsDefenderManager](https://github.com/SHICTHRS/SHICTHRS_WindowsDefenderManager) |
+| SHICTHRSENCR | 1.3.0 | 20251129 | ✅ | [SHICTHRS_ENCR](https://github.com/SHICTHRS/SHICTHRS_ENCR) |
+| SHICTHRSMACE | 1.5.0 | 20251129 | ✅ | [SHICTHRS_MACE](https://github.com/SHICTHRS/SHICTHRS_MACE) |
+| SHICTHRSLogCore  | 1.12.0 | 20251214 | ✅ | [SHICTHRS_LogCore](https://github.com/SHICTHRS/SHICTHRS_LogCore) |
+| SHICTHRSCSVLoader  | 1.5.0 | 20251220 | ✅ | [SHICTHRS_CSVLoader](https://github.com/SHICTHRS/SHICTHRS_CSVLoader) |
+| SHICTHRSJsonLoader  | 1.5.0 | 20251129 | ✅ | [SHICTHRS_JsonLoader](https://github.com/SHICTHRS/SHICTHRS_JsonLoader) |
+| SHICTHRSConfigLoader  | 1.5.0 | 20251214 | ✅ | [SHICTHRS_ConfigLoader](https://github.com/SHICTHRS/SHICTHRS_ConfigLoader) |
 
 ## 模块错误代码
 
@@ -177,3 +177,4 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 | 8002 | SHRTimerException | unable to get system time stamp | 无法获取系统时间戳 |
 | 8003 | SHRTimerException | time zone is not supported | 输入的时区不被支持 |
 | 8004 | SHRTimerException | unable to get pytz time | 无法获取时区时间 |
+| 8005 | SHRTimerException | unable to determine whether the two times fall within the time period | 无法判断两个时间是否在时间段内 |
