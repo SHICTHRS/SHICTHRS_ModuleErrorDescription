@@ -10,6 +10,7 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 
 | 模块名称 | 最新版本 | 更新时间 | 维护状态 | 项目地址 |
 |---------|--------|---------|---------|---------|
+| SHICTHRSECThread | 1.0.0 | 20260114 | ✅ | [SHICTHRS_ECThread](https://github.com/SHICTHRS/SHICTHRS_ECThread) |
 | SHICTHRSTimer | 1.2.0 | 20260110 | ✅ | [SHICTHRS_Timer](https://github.com/SHICTHRS/SHICTHRS_Timer) |
 | SHICTHRSWMICManager | 1.3.0 | 20251206 | ✅ | [SHICTHRS_WMICManager](https://github.com/SHICTHRS/SHICTHRS_WMICManager) |
 | SHICTHRSBrowserReader | 1.3.0 | 20251129 | ✅ | [SHICTHRS_BrowserReader](https://github.com/SHICTHRS/SHICTHRS_BrowserReader) |
