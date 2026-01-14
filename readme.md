@@ -179,3 +179,9 @@ SHICTHRS模块错误代码与异常说明文档，为SHICTHRS系列项目提供�
 | 8003 | SHRTimerException | time zone is not supported | 输入的时区不被支持 |
 | 8004 | SHRTimerException | unable to get pytz time | 无法获取时区时间 |
 | 8005 | SHRTimerException | unable to determine whether the two times fall within the time period | 无法判断两个时间是否在时间段内 |
+
+### SHICTHRSECThread 模块
+
+| 错误代码 | 异常类 | 英文描述 | 中文描述 |
+|---------|--------|---------|---------|
+| 9000 | SHRECThreadException | error occurred while thread running | 时间输出格式不被支持 |
