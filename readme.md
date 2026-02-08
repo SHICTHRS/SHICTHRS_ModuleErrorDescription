@@ -33,7 +33,7 @@
 | **SHICTHRSBrowserReader** | `1.3.0` | 20251129 | ✅ | [SHICTHRS_BrowserReader](https://github.com/SHICTHRS/SHICTHRS_BrowserReader) |
 | **SHICTHRSVTChecker** | `1.2.0` | 20251129 | ✅ | [SHICTHRS_VTChecker](https://github.com/SHICTHRS/SHICTHRS_VTChecker) |
 | **SHICTHRSWindowsDefenderManager** | `1.1.0` | 20251129 | ✅ | [SHICTHRS_WindowsDefenderManager](https://github.com/SHICTHRS/SHICTHRS_WindowsDefenderManager) |
-| **SHICTHRSENCR** | `1.3.0` | 20251129 | ✅ | [SHICTHRS_ENCR](https://github.com/SHICTHRS/SHICTHRS_ENCR) |
+| **SHICTHRSENCR** | `1.4.0` | 20260208 | ✅ | [SHICTHRS_ENCR](https://github.com/SHICTHRS/SHICTHRS_ENCR) |
 | **SHICTHRSMACE** | `1.7.0` | 20260125 | ✅ | [SHICTHRS_MACE](https://github.com/SHICTHRS/SHICTHRS_MACE) |
 | **SHICTHRSLogCore** | `1.12.0` | 20251214 | ✅ | [SHICTHRS_LogCore](https://github.com/SHICTHRS/SHICTHRS_LogCore) |
 | **SHICTHRSCSVLoader** | `1.6.0` | 20260122 | ✅ | [SHICTHRS_CSVLoader](https://github.com/SHICTHRS/SHICTHRS_CSVLoader) |
