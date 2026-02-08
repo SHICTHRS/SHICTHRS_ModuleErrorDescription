@@ -149,6 +149,7 @@
 | `3002` | `SHRENCRException` | unable to decrypt base64 code | 无法将base64字符串解密为一般字符串 |
 | `3003` | `SHRENCRException` | unable to check identity number | 校验身份证号时发生错误 |
 | `3004` | `SHRENCRException` | unable to check chinese text | 正则表达式检查中文字符时发生错误 |
+| `3005` | `SHRENCRException` | unable to check chinese phone number | 检查中国区手机号码时发生错误 |
 
 ### SHICTHRSWindowsDefenderManager 模块
 
