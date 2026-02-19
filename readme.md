@@ -152,6 +152,7 @@
 | `3005` | `SHRENCRException` | unable to check chinese phone number | 检查中国区手机号码时发生错误 |
 | `3006` | `SHRENCRException` | unable to check e-mail | 检查电子邮箱时发生错误 |
 | `3007` | `SHRENCRException` | unable to check SHICTHRS standard password | 无法检查 SHICTHRS 标准密码格式 |
+| `3008` | `SHRENCRException` | unable to get identity number mask | 无法将身份证号脱敏 |
 
 ### SHICTHRSWindowsDefenderManager 模块
 
