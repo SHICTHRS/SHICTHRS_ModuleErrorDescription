@@ -33,7 +33,7 @@
 | **SHICTHRSBrowserReader** | `1.3.0` | 20251129 | ✅ | [SHICTHRS_BrowserReader](https://github.com/SHICTHRS/SHICTHRS_BrowserReader) |
 | **SHICTHRSVTChecker** | `1.2.0` | 20251129 | ✅ | [SHICTHRS_VTChecker](https://github.com/SHICTHRS/SHICTHRS_VTChecker) |
 | **SHICTHRSWindowsDefenderManager** | `1.1.0` | 20251129 | ✅ | [SHICTHRS_WindowsDefenderManager](https://github.com/SHICTHRS/SHICTHRS_WindowsDefenderManager) |
-| **SHICTHRSENCR** | `1.8.0` | 20260218 | ✅ | [SHICTHRS_ENCR](https://github.com/SHICTHRS/SHICTHRS_ENCR) |
+| **SHICTHRSENCR** | `1.9.0` | 20260220 | ✅ | [SHICTHRS_ENCR](https://github.com/SHICTHRS/SHICTHRS_ENCR) |
 | **SHICTHRSMACE** | `1.7.0` | 20260125 | ✅ | [SHICTHRS_MACE](https://github.com/SHICTHRS/SHICTHRS_MACE) |
 | **SHICTHRSLogCore** | `1.12.0` | 20251214 | ✅ | [SHICTHRS_LogCore](https://github.com/SHICTHRS/SHICTHRS_LogCore) |
 | **SHICTHRSCSVLoader** | `1.6.0` | 20260122 | ✅ | [SHICTHRS_CSVLoader](https://github.com/SHICTHRS/SHICTHRS_CSVLoader) |
@@ -153,6 +153,7 @@
 | `3006` | `SHRENCRException` | unable to check e-mail | 检查电子邮箱时发生错误 |
 | `3007` | `SHRENCRException` | unable to check SHICTHRS standard password | 无法检查 SHICTHRS 标准密码格式 |
 | `3008` | `SHRENCRException` | unable to get identity number mask | 无法将身份证号脱敏 |
+| `3009` | `SHRENCRException` | unable to check is input chinese name | 无法判断输入字符是否为中文姓名 |
 
 ### SHICTHRSWindowsDefenderManager 模块
 
