@@ -156,6 +156,7 @@
 | `3009` | `SHRENCRException` | unable to check is input chinese name | 无法判断输入字符是否为中文姓名 |
 | `3010` | `SHRENCRException` | unable to get password strength | 无法获取密码强度 |
 | `3011` | `SHRENCRException` | unable to check nickname | 无法校验昵称合法性 |
+| `3012` | `SHRENCRException` | unable to check wx identity number | 无法校验微信号合法性 |
 
 ### SHICTHRSWindowsDefenderManager 模块
 
